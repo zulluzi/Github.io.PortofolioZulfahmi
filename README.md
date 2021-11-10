@@ -1,2 +1,2 @@
 # portofolio.zulfahmi
-page: https://zulluzi.github.io/portofolio.zulfahmi/index.html
+page: https://bit.ly/ZulfahmiPortofolio1
